@@ -70,7 +70,8 @@ body {
 }
 #cont1 #header .gnb {
   display: flex;
-  line-height: 80px;
+  height: 80px;
+  align-items: center;
 }
 #cont1 #header .gnb li {
   margin-left: 30px;
